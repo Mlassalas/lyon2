@@ -1,0 +1,28 @@
+@import url("components/container.css")
+@import url("components/avatar.css")
+@import url("components/banner.css")
+@import url("components/card.css")
+
+
+
+body {
+	background-image: url("../images/ebi.jpg");
+	text-align: !important;
+	color: rgb(30, 30, 30);
+	font-family: Courier;
+}
+
+h1, h2, h3, h4{
+	color: black;
+	font-family: cursive;
+	font: bold;
+	letter-spacing: 5px;
+	text-align: center;
+}
+
+
+div {
+	border-radius: 15px;
+	box-shadow: 0px 15px 30px rgba(55, 55, 55, 1000);
+	text-align: center;
+}

@@ -1,0 +1,13 @@
+.button-red{
+	background-color: white;
+	color: black;
+	padding: 10px 25px ;
+	border-radius: 4px;
+	text-decoration: none;
+	display:inline-block ;
+	opacity: 1;
+}
+
+.button-red:hover {
+	opacity: 0,8;
+}
